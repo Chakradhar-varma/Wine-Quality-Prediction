@@ -20,18 +20,19 @@ The dataset used in this project contains information about different wines, inc
 
 ## Dependencies
 To run this notebook, you need the following libraries:
-- Python (>=3.7)
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-
+- Python
+- Jupyter Notebook
+- Pandas (for data manipulation)
+- NumPy (for data manipulation)
+- Scikit-learn (for machine learning models)
+- Matplotlib (for data visualization)
+- Seaborn (for data visualization)
+  
 Install dependencies using:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
-
+  
 ## Workflow
 1. **Data Loading:** Import and inspect the dataset.
 2. **Exploratory Data Analysis (EDA):** Visualize distributions and relationships between features.
