@@ -54,7 +54,7 @@ jupyter notebook Wine_Quality_Prediction.ipynb
 The best-performing model provides insights into which features most influence wine quality. The model's accuracy and feature importance are visualized for further analysis.
 
 ## Author
-Developed as part of a data science project. Contributions and suggestions are welcome!
+Developed as part of a data science project.
 
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit pull requests with improvements.
